@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaherChumki
-- 👀 I’m interested in Data Analysis and Cybersecurity.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Data Analysis,Web Engineering, and Cybersecurity.
+- 🌱 I’m currently learning Python,Javascript and R.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
